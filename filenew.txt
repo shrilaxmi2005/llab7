@@ -1,7 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hiiiiii
 helooooo
 welcome
+=======
+hiiiiii
+>>>>>>> 1debcdc (commit1)
 =======
 hiiiiii
 >>>>>>> 1debcdc (commit1)
